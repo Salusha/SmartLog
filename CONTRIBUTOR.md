@@ -1,6 +1,6 @@
 # **Contributing Guidelines** 📄
 
-This documentation contains a set of guidelines to help you during the contribution process for **SmartLog **.
+This documentation contains a set of guidelines to help you during the contribution process for **SmartLog**.
 We are happy to welcome all the contributions from anyone willing to improve/add new features to this project.
 Thank you for helping out and remember, **no contribution is too small.**
 
@@ -125,6 +125,8 @@ git commit -m "concise description"
     - `style:` for code style changes
     - `refactor:` for code refactoring
     - `test:` for adding tests
+
+
 9. **Push Changes to GitHub:**
 
 ```bash
